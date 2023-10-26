@@ -1,0 +1,12 @@
+
+body {
+  background-color: #000; /* Black background color */
+  color: #ff80ab; /* Pink text color */
+  font-family: 'Comic Sans MS', cursive; /* Playful font */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
