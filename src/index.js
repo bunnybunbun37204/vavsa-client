@@ -11,3 +11,5 @@ rootContainer.render(
     <App />
   </BrowserRouter>
 );
+
+module.exports = root;
