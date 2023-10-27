@@ -6,8 +6,6 @@ import AudioDetail from './pages/AudioDetail';
 import InputMelody from './pages/InputMelody';
 import './App.css';
 import RingSketch from './components/Rings';
-import BallSketch from './components/Balls';
-import WaterSketch from './components/WaterSketch';
 
 function App() {
   const element = useRoutes([
